@@ -1,0 +1,29 @@
+Bug Bounty Mindmap:
+
+Wordlists : Raft-wordlist, Jason Haddix all.txt, dnsgen, Content Discovery all.txt, Seclists, Payload all things, Custom Wordlists
+
+
+Fuzzing: wfuzz, ffuf, gobuster
+port Scan : Massscan, Nmap, naabu
+Virtual HOst : webtool, virtual host scanner
+WAF : wafw00f, nmap script
+CMS Recon : Wappalyzer, builtwith, netcraft, whatweb, Retire.js, Trufflehog
+Virtual Recon : Aquatone, Webscreenshot, Eyewitness
+Github Recon : gitrob, githound, sshgit, trufflehog,git all secret, gitgrabber, Manual Dork
+WayBack : waybackurls, waymore, paramspider, parameth, wayback unifier
+Subdomain takeover : HostileStko, Subzy, takeover, subover, subjac, canitakeoverxyz
+Hacks : meg, tojson, interlace, gf, httprobe, shuffledns, httpx, nuclei
+Recursive DNS : Automate dnsgen, masscan, syborg, dnsrecon, dirsearch
+Directory Traversal : Dirb, dirsearch, fuff, gobuster, dirbuster
+JS enum : Linkfinder, getjs, input scanner, js Parser
+Subdomain Enum : subfinder, sublist3r, amass, findomain, assetfinder. 1st level,2nd level
+ASN : bgp.he.net, whois.arin.net, apps.db.ripe.net, shodan.io, hunter.how, dnsgoodies.com
+
+Web application attacks:
+SSRF : burp collaborator, SSRFmap
+CORS : CORSScanner, corsy, gf
+CSRF : CSRFScanner, Bolt, Burp CSRF POC
+XSS : XSScrapy, XSSstrike, Gf, XSS wayback hunt
+COmmand Injection : Commix, Gf, web archieve
+Open Redirect : Open redirect scanner, gf, wayback archive
+
